@@ -1,4 +1,8 @@
 public class AdjacencyMatrixGraph {
+    private int _numberOfVertices;
+    private int _numberOfEdges;
+    private int[][] _adjacency;
+
     public AdjacencyMatrixGraph(int givenNumberOfVertices){
 
     }
